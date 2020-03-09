@@ -1,0 +1,5 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lickthecheese.github.io
+Token: 51222fe3c055187bce932088b745485759d1f91e4e36a5318e2cf33a4a663d18
+
