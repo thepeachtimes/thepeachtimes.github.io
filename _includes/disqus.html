@@ -1,9 +1,9 @@
 {% if site.disqus %}
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>
-  commentBox('{{ site.disqus }}', {
-    textColor: '#fff'
-  });
+<script src="https://utteranc.es/client.js"
+        repo="thepeachtimes/thepeachtimes.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
 </script>
 {% endif %}
