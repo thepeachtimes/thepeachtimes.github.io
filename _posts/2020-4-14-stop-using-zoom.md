@@ -12,11 +12,11 @@ are turning to the commertial video conference platform,
 [have not been good at choosing software](https://blogs.windows.com/windowsexperience/2018/03/06/k-12-schools-us-choosing-affordable-windows-devices-according-futuresource/), this just seems like a unfathomably horrible choice.
 
 For one, Zoom claimed that they were using End-to-End Encryption, but
-[they lied about that](https://theintercept.com/2020/03/31/zoom-meeting-encryption/). What else could they be lying about? Well, probably much more than
+[they lied about that](https://theintercept.com/2020/03/31/zoom-meeting-encryption/). What else could they be lying about? Well, much more than
 we can fit here, but let's explore a few.
 
 They shared user data with facebook [without consent](https://www.cbsnews.com/news/zoom-app-personal-data-selling-facebook-lawsuit-alleges/). They
-have such bad securety that random people can join their call, which
+have such bad security that random people can join their call, which
 happens often enough that it even got a nickname - [zoombombing](https://www.nytimes.com/2020/04/03/technology/zoom-harassment-abuse-racism-fbi-warning.html). Zoom is [closed source](https://support.zoom.us/hc/en-us/articles/360000126326-Official-Statement-EU-GDPR-Compliance), so you cannot peek inside and see
 what they are doing, which opens up Zoom for some major security and
 privacy concerns. For example, they can [use malware](https://www.theverge.com/2020/4/2/21204648/zoom-macos-installer-update-privacy-security-concerns) to install itself,
