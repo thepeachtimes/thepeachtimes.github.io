@@ -18,7 +18,7 @@ avatar: /images/thepeachtimes.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: "xfnw+does+not+want+your+spam@ttm.sh"
   facebook:
   flickr:
   github: thepeachtimes
@@ -26,8 +26,8 @@ footer-links:
   linkedin:
   pinterest:
   rss: anything # just type anything here for a working RSS icon
-  twitter: "@lickthecheese"
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: "@xfnw"
+  stackoverflow: "users/9406294/xfnw" # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
